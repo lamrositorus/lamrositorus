@@ -1,7 +1,7 @@
 # Hi there, I'm Lamro Sitorus 👋
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning **React.js and TypeScript**
+- 🌱 I’m currently learning **React.js and Javascript**
 - 👯 I’m looking to collaborate on **frontend projects, open-source contributions, and UI/UX design**
 - 🤔 I’m looking for help with **advanced JavaScript concepts and performance optimization**
 - 💬 Ask me about **HTML, CSS, JavaScript, and frontend frameworks**
