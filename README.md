@@ -1,4 +1,4 @@
-# Hi there, I'm [Lanro Sitorus] 👋
+# Hi there, I'm Lamro Sitorus 👋
 
 ## 👨‍💻 About Me
 - 🌱 I’m currently learning **React.js and TypeScript**
