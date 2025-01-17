@@ -1,15 +1,15 @@
 # Hi there, I'm Lamro Sitorus 👋
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning **React.js and Tailwind css**
-- 👯 I’m looking to collaborate on **frontend projects, open-source contributions, and UI/UX design**
-- 🤔 I’m looking for help with **advanced JavaScript concepts and performance optimization**
-- 💬 Ask me about **HTML, CSS, JavaScript, and frontend frameworks**
+- 🌱 I’m currently learning **Node.js, Express.js, and RESTful APIs** alongside **React.js** and **DaisyUI**.
+- 👯 I’m looking to collaborate on **full-stack projects, open-source contributions, and UI/UX design**.
+- 🤔 I’m looking for help with **advanced JavaScript concepts and performance optimization**.
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, and backend development**.
 - 📫 How to reach me: **lamrostr03@gmail.com**
 
 ## 🛠️ Technologies & Tools
-- **Languages**: HTML, CSS, JavaScript
-- **Frameworks/Libraries**: React.js, Bootstrap, Tailwind
+- **Languages**: JavaScript, NodeJs
+- **Frameworks/Libraries**: React.js, Express.js, DaisyUI, Bootstrap, Tailwind
 - **Tools**: Git, Webpack, Visual Studio Code
 - **Design**: Figma, Adobe XD, Framer
 
